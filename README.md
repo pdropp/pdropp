@@ -1,16 +1,39 @@
-## Hi there 👋
+```markdown
+# Hi There Animation
 
-<!--
-**pdropp/pdropp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hi There Animation</title>
+    <style>
+        .animated-text {
+            font-size: 2em;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="animated-text" id="animatedText"></div>
 
-Here are some ideas to get you started:
+    <script>
+        const text = "Hi There";
+        let index = 0;
+        const speed = 200; // Speed in milliseconds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        function typeWriter() {
+            if (index < text.length) {
+                document.getElementById("animatedText").innerHTML += text.charAt(index);
+                index++;
+                setTimeout(typeWriter, speed);
+            }
+        }
+
+        window.onload = typeWriter;
+    </script>
+</body>
+</html>
+```
