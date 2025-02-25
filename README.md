@@ -7,9 +7,8 @@
 
 
 
-<p>
 
-   ### Informações pessoais
+### Informações pessoais
 - Pedro Paulo (Hencolt)
 - Recife | Pernambuco
 - 26 anos
@@ -22,10 +21,12 @@
 - Desenvolvo testes automatizados e monto pipelines
 - Atualmente estou estudando GoLang 
 - Desenvolvo programas para uso pessoal com Python 
-</p>
-<br>
+<p>
+    </br>
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
 <code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/java">
 <code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/selenium">
 <code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/pytest">
 <code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/go">
+</p>
+
