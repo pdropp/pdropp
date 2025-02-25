@@ -19,12 +19,12 @@
 - Atualmente estou estudando GoLang 
 - Desenvolvo programas para uso pessoal com Python 
 <p>
-    <img align="right" alt="GIF" width="50%" src="https://animesher.com/orig/1/195/1955/19556/animesher.com_cute-gif-yu-yu-hakusho-1955679.gif" />
+    <img align="right" alt="GIF" width="50%" src="https://animesher.com/orig/1/195/1955/19556/animesher.com_cute-gif-yu-yu-hakusho-1955679.gif"/>
 
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"></code>
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"></code>
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
 </p>
 
