@@ -11,6 +11,7 @@
 - Recife | Pernambuco
 - 26 anos
 
+<img align="right" alt="GIF" width="50%" src="https://animesher.com/entry/cute-gif-yu-yu-hakusho-1955679/"/>
 
 ### Coisas sobre meu trabalho e estudos atualmente 👩🏻‍💻:
 - Atualmente trabalho na empresa Deloitte como QA Pleno
@@ -18,8 +19,10 @@
 - Desenvolvo testes automatizados e monto pipelines
 - Atualmente estou estudando GoLang 
 - Desenvolvo programas para uso pessoal com Python 
+
+</br>
 <p>
-    <img align="right" alt="GIF" width="50%" src="https://animesher.com/orig/1/195/1955/19556/animesher.com_cute-gif-yu-yu-hakusho-1955679.gif"/>
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pdropp&show_icons=true&hide_border=true" />
 
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
