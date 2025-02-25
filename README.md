@@ -10,7 +10,7 @@
 - Pedro Paulo (Hencolt)
 - Recife | Pernambuco
 - 26 anos
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/tSWbjAYFEg0AAAAC/yusuke-urameshi.gif"/>
+<img align="right" width="35%" alt="GIF" src="https://media1.tenor.com/m/tSWbjAYFEg0AAAAC/yusuke-urameshi.gif"/>
 
 ### Coisas sobre meu trabalho e estudos atualmente 👩🏻‍💻:
 - Atualmente trabalho na empresa Deloitte como QA Pleno
@@ -19,7 +19,7 @@
 - Atualmente estou estudando GoLang 
 - Desenvolvo programas para uso pessoal com Python 
 
-
+<br>
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pdropp&show_icons=true&hide_border=true" />
 
