@@ -21,7 +21,6 @@
 
 <br>
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pdropp&show_icons=true&hide_border=true" />
 
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
