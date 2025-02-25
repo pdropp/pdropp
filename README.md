@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdropp/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrogks17@gmail.com)
 
-<img align="right" width="40%" alt="GIF" src="https://64.media.tumblr.com/9980067c4fb1a27d3c1d9cd5002ce0e0/c3ee5b4d98f3faa2-07/s500x750/6f70dc4174c44759b4fc507333f9995eb2bf2bb0.gifv"/>
+<img align="right" width="50%" alt="GIF" src="https://64.media.tumblr.com/9980067c4fb1a27d3c1d9cd5002ce0e0/c3ee5b4d98f3faa2-07/s500x750/6f70dc4174c44759b4fc507333f9995eb2bf2bb0.gifv"/>
 
 ### Informações pessoais:
 - Pedro Paulo (Hencolt)
@@ -18,7 +18,6 @@
 - Desenvolvo testes automatizados e monto pipelines
 - Atualmente estou estudando GoLang 
 - Desenvolvo programas para uso pessoal com Python 
-
 ### Linguagens de programação 💻:
 <br />
 <p>
