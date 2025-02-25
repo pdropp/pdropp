@@ -10,7 +10,7 @@
 - Pedro Paulo (Hencolt)
 - Recife | Pernambuco
 - 26 anos
-<img align="right" width="35%" alt="GIF" src="https://media1.tenor.com/m/tSWbjAYFEg0AAAAC/yusuke-urameshi.gif"/>
+<img align="right" width="40%" alt="GIF" src="https://64.media.tumblr.com/9980067c4fb1a27d3c1d9cd5002ce0e0/c3ee5b4d98f3faa2-07/s500x750/6f70dc4174c44759b4fc507333f9995eb2bf2bb0.gifv"/>
 
 ### Coisas sobre meu trabalho e estudos atualmente 👩🏻‍💻:
 - Atualmente trabalho na empresa Deloitte como QA Pleno
@@ -21,11 +21,11 @@
 
 <br>
 <p>
-
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
+    <code><img width="50%" align='right' src="https://github-readme-stats.vercel.app/api?username=Pdropp&show_icons=true&theme=merko">
 </p>
 
