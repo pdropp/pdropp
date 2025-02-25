@@ -11,7 +11,7 @@
 - Recife | Pernambuco
 - 26 anos
 
-<img align="right" alt="GIF" width="50%" src="https://animesher.com/entry/cute-gif-yu-yu-hakusho-1955679/"/>
+<img align="right" alt="GIF" width="50%" src="https://media1.tenor.com/m/4k2WQM0MCJQAAAAC/yu-yu-hakusho-yusuke-urameshi.gif"/>
 
 ### Coisas sobre meu trabalho e estudos atualmente 👩🏻‍💻:
 - Atualmente trabalho na empresa Deloitte como QA Pleno
