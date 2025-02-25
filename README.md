@@ -13,7 +13,7 @@
 - Recife | Pernambuco
 - 26 anos
 
-<img align="right" alt="GIF" width="50%" src="https://animesher.com/orig/1/195/1955/19556/animesher.com_cute-gif-yu-yu-hakusho-1955679.gif">
+<img align="right" alt="GIF" width="50%" src="https://animesher.com/orig/1/195/1955/19556/animesher.com_cute-gif-yu-yu-hakusho-1955679.gif" />
 
 ### Coisas sobre meu trabalho e estudos atualmente 👩🏻‍💻
 - Atualmente trabalho na empresa Deloitte como QA Pleno
@@ -23,10 +23,10 @@
 - Desenvolvo programas para uso pessoal com Python 
 <p>
     </br>
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/java">
-<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/selenium">
-<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/pytest">
-<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/go">
+<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/java"></code>
+<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/selenium"></code>
+<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/pytest"></code>
+<code><img width="8%" src="https://github.com/devicons/devicon/tree/master/icons/go"></code>
 </p>
 
