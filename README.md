@@ -22,12 +22,13 @@
 ### Linguagens de programação 💻:
 <br />
 <p>
+<code><img width="50%" align='right' src="https://github-readme-stats.vercel.app/api?username=Pdropp&show_icons=true&theme=merko">
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
 
-<code><img width="50%" align='right' src="https://github-readme-stats.vercel.app/api?username=Pdropp&show_icons=true&theme=merko">
+
 </p>
 
