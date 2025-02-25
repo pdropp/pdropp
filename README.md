@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&background=1179217B&center=true&vCenter=true&multiline=true&width=750&lines=Welcome+to+my+github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&background=1179217B&center=true&vCenter=true&multiline=true&width=780&lines=Welcome+to+my+github.)](https://git.io/typing-svg)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198138551587/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdropp/)
@@ -21,7 +21,7 @@
 ### Linguagens de programação 💻:
 <br />
 <p>
-<code><img width="50%" align='right' src="https://github-readme-stats.vercel.app/api?username=Pdropp&show_icons=true&theme=merko">
+<code><img width="45%" align='right' src="https://github-readme-stats.vercel.app/api?username=Pdropp&show_icons=true&theme=merko">
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></code>
